@@ -4,7 +4,7 @@
 
 This is a web-based version of the classic Simon Game, created as part of The App Brewery's Web Development Bootcamp. It's designed to showcase the use of jQuery for handling user interactions and animations. Players are challenged to remember and replicate an increasingly complex series of lights and sounds.
 
-![Application Screenshot](./images/application_screenshot.png)
+![Application Screenshot](./images/application-screenshot.png)
 
 ## Installation
 
